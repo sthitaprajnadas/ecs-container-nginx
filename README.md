@@ -4,4 +4,4 @@
 
 The following diagram represents the Infrastructure architecture being deployed with this project:
 
-![ScreenShot](./diagram.png)
+  ![ScreenShot](diagram.png)  
